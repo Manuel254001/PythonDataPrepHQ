@@ -1,16 +1,9 @@
-# Apress Source Code
+Python for Data Analysis Preparation
+Overview
+This repository is dedicated to the preparation materials for the Python for Data Analysis workshop. Managed by Emmanuel Muthomi Muchui, it includes essential resources and tools that will be utilized during the workshop.
 
-This repository accompanies [*%title%*](https://www.apress.com/9781484241080) by Dr. Ossama Embarak (Apress, 2018).
-
-[comment]: #cover
-![Cover image](9781484241080.jpg)
-
-Download the files as a zip using the green button, or clone the repository to your machine using Git.
-
-## Releases
-
-Release v1.0 corresponds to the code in the published book, without corrections or updates.
-
-## Contributions
-
-See the file Contributing.md for more information on how you can contribute to this repository.
+Contents
+Resources: Data sets, scripts, and reference materials.
+Notes: Planning documents, session outlines, and personal notes.
+Purpose
+This repository is intended for organizational and preparation purposes to ensure a successful and well-structured workshop.
